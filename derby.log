@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Wed Jan 15 00:21:30 EST 2025:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0194-6868-dc4f-000000ce33d8 
-on database directory memory:/Users/kdluu/Documents/workspace/springboot/course-api-data/d53a4dce-52d1-4d66-b7d1-af7aaaac90c0 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Wed Jan 15 01:27:30 EST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0194-68a5-4970-000000b08778 
+on database directory memory:/Users/kdluu/Documents/workspace/springboot/course-api-data/5ee44f5e-3362-4b30-ac39-e0c427a08a7a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
 Loaded from file:/Users/kdluu/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=22+36-2370
