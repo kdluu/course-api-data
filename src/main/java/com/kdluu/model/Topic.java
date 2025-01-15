@@ -1,7 +1,12 @@
 package com.kdluu.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class Topic {
 
+    @Id
     private String id;
     private String name;
     private String description;
@@ -30,8 +35,7 @@ public class Topic {
         this.description = description;
     }
 
-    public Topic() {
-    }
+    public Topic() {}
 
     public Topic(String id, String name, String description) {
         super();
